@@ -1,12 +1,6 @@
-##Cotton Tail for ERCF
+##Cotton Tail for ERCF##
 
-## DEVELOPMENT AND BETA!
-
-**This is project is still underdevelopment, **please proceed with caution. I hold no responsibilities for any personal damages for the use of any of these files. Please do not modifiy or share any of the files.
-
-Any bugs, observations, questions related to this buffer can be directed at my home server at <https://discord.gg/Gs2vAtK7T7>
-
-@kinematicdigit
+## BETA CYCLE IS COMPLETE - RELEASE TO BE ANNOUNCED ON THE VORON DISCORD CHANNEL ##
 
 
 ![](https://media.discordapp.net/attachments/1165841694273585234/1165910456683221073/394413133_10160827106300856_2289264436205624168_n.png?ex=654891ba&is=65361cba&hm=1bbe1b6bbc529e638add06c535aef12ad2c58fd5fa59339fec894c2ca8a0237b&=&width=2076&height=1492)
