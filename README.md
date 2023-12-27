@@ -53,12 +53,6 @@ Features:
 
 ## Building the ERCT
 
-All files are located in the STL folder, and instructions are as follows:
-
-| <img height="450" width="601" src="https://media.discordapp.net/attachments/1165841694273585234/1166559327402864740/3ACBDFDA-B7D4-4004-BF0B-E50EAFB31C6A.jpg?ex=654aee09&is=65387909&hm=875cfd432fc3a96d6faa8afc916acef6bbccdc20713cf08085ed1f5bf1cf0ea7&=&width=1990&height=1492" /> |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                            Each channel uses these parts. ERCT is all stackable with a single endcap to finish the buffer.                                                                                            |
-
 ### **Instructions**
 
 **PRINT SETTINGS**
